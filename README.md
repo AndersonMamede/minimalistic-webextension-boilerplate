@@ -1,8 +1,3 @@
-<div align="center"><strong>Start your next web extension in seconds</strong></div>
-
-<div align="center"># Web Extension Boilerplate</div>
-<div align="center">A minimalistic template for building web extensions for Chrome and Firefox.</div>
-
 <div align="center">
   <a href="https://github.com/AndersonMamede/web-extension-boilerplate/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT%20License-blue.svg" alt="License">
@@ -12,6 +7,15 @@
   </a>
   <img src="http://hits.dwyl.io/AndersonMamede/web-extension-boilerplate.svg" alt="Hits">
 </div>
+
+<br/>
+
+<div align="center"><strong>Start your next web extension in seconds</strong></div>
+
+<br/>
+
+# Web Extension Boilerplate
+A minimalistic template for building web extensions for Chrome and Firefox.
 
 This boilerplate is here to give you a simple starting point for your Chrome/Firefox web extensions projects.
 
