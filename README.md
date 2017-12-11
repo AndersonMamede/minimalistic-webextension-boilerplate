@@ -21,10 +21,13 @@ This boilerplate is here to give you a simple starting point for your Chrome/Fir
 
 # Installation / Usage
 
-Just clone this repository and rename the boilerplate folder to your project's name:
+Just clone this repository:
 
 ```sh
-$ git clone https://github.com/AndersonMamede/web-extension-boilerplate.git
-$ cd web-extension-boilerplate
-$ rename web-extension-boilerplate example-project
+git clone https://github.com/AndersonMamede/web-extension-boilerplate.git
+cd web-extension-boilerplate
 ```
+
+... and you have a running web extension.
+
+From there, you should rename the *boilerplate* folder and [configure the manifest.json file](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json){:target="_blank"}, and you're ready to [develop your web extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions){:target="_blank"}.
