@@ -17,8 +17,6 @@ A minimalistic template for building web extensions for Chrome and Firefox.
 
 This boilerplate is here to give you a simple starting point for your Chrome/Firefox web extensions projects.
 
-<br />
-
 # Installation / Usage
 
 Just clone this repository:
@@ -27,7 +25,7 @@ Just clone this repository:
 git clone https://github.com/AndersonMamede/web-extension-boilerplate.git
 ```
 
-... and you have a running web extension.
+... and you have a working web extension.
 
 From there, you should rename the *boilerplate* folder and [configure the manifest.json file](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json), and you're ready to [develop your web extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions).
 
@@ -66,4 +64,10 @@ Contains all extension's inner pages and their JS/CSS files: popup page, configu
 
 #### [manifest.json](https://github.com/AndersonMamede/web-extension-boilerplate/tree/master/boilerplate/manifest.json)
 
-manifest.json is the main file for an extension and it is where you set all the [configurations for your extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json).
+manifest.json is the main file for an extension and it is where you set all the configurations for your extension.
+
+> Check [https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json) if you have doubts when configuring manifest.json.
+
+# License
+
+Licensed under the MIT License. Please see [LICENSE](LICENSE) for more information © Anderson Mamede <mamede.anderson@gmail.com>
