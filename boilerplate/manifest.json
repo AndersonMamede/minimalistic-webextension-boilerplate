@@ -1,0 +1,35 @@
+{
+	"manifest_version" : 2,
+	
+	"version" : "0.0.1",
+	"name" : "Web Extension Boilerplate",
+	"short_name" : "Web Extension Boilerplate",
+	"description" : "Web Extension Boilerplate - extension description",
+	
+	"icons" : {
+		"16" : "img/icon-16.png",
+		"32" : "img/icon-32.png",
+		"48" : "img/icon-48.png",
+		"96" : "img/icon-96.png",
+		"128" : "img/icon-128.png"
+	},
+	
+	"browser_action" : {
+		"browser_style" : false,
+		"default_title" : "Web Extension Boilerplate",
+		"default_popup" : "pages/popup/index.html",
+		"default_icon" : {
+			"16" : "img/icon-16.png",
+			"24" : "img/icon-24.png",
+			"32" : "img/icon-32.png"
+		}
+	},
+	
+	"background" : {
+		"scripts" : []
+	},
+	
+	"web_accessible_resources" : [],
+	
+	"permissions" : []
+}
