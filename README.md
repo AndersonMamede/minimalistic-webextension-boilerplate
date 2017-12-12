@@ -50,21 +50,21 @@ The basic structure of the boilerplate project is given in the following way:
     └── manifest.json
 ```
 
-#### [boilerplate/](https://github.com/AndersonMamede/web-extension-boilerplate/tree/master/boilerplate)
+#### [boilerplate/](boilerplate)
 
 This is where the boilerplate files are stored.
 
-#### [img/](https://github.com/AndersonMamede/web-extension-boilerplate/tree/master/boilerplate/img)
+#### [img/](boilerplate/img)
 
 Contains the extension's icons. You can put any other images here.
 
-#### [pages/](https://github.com/AndersonMamede/web-extension-boilerplate/tree/master/boilerplate/pages)
+#### [pages/](boilerplate/pages)
 
 Contains all extension's inner pages and their JS/CSS files: popup page, configuration page, or any other HTML page.
 
-#### [manifest.json](https://github.com/AndersonMamede/web-extension-boilerplate/tree/master/boilerplate/manifest.json)
+#### [manifest.json](boilerplate/manifest.json)
 
-manifest.json is the main file for an extension and it is where you set all the configurations for your extension.
+manifest.json is the main file for an extension and it is where you set all configurations read by the browser (e.g., name, permissions, resources, etc).
 
 > Check [https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json) if you have doubts when configuring manifest.json.
 
