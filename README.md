@@ -7,7 +7,7 @@
   <a href="https://github.com/AndersonMamede/web-extension-boilerplate/">
     <img src="https://img.shields.io/badge/dependencies-none-orange.svg" alt="Dependencies"/>
   </a>
-  <img src="http://hits.dwyl.io/AndersonMamede/web-extension-boilerplate.svg" alt="Hits"/>
+  <img src="http://hits.dwyl.io/AndersonMamede/minimalistic-webextension-boilerplate.svg" alt="Hits"/>
 </div>
 
 <br />
@@ -22,7 +22,7 @@ This boilerplate is here to give you a simple starting point for your Chrome/Fir
 Just clone this repository:
 
 ```sh
-git clone https://github.com/AndersonMamede/web-extension-boilerplate.git
+git clone https://github.com/AndersonMamede/minimalistic-webextension-boilerplate.git
 ```
 
 ... and you have a working web extension.
