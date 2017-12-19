@@ -27,7 +27,7 @@ git clone https://github.com/AndersonMamede/minimalistic-webextension-boilerplat
 
 ... and you have a working web extension.
 
-From there, you should rename the *boilerplate* folder and [configure the manifest.json file](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json)(name and description of your project) and you're ready to [develop your web extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions).
+From there, you should rename the *boilerplate* folder and [configure the manifest.json file](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json) (name and description of your project) and you're ready to [develop your web extension](https://developer.mozilla.org/en-US/Add-ons/WebExtensions).
 
 # Structure
 
