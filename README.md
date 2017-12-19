@@ -40,13 +40,12 @@ The basic structure of the boilerplate project is given in the following way:
     │   ├── icon-24.png
     │   ├── icon-32.png
     │   ├── icon-48.png
-    │   ├── icon-64.png
-    │   ├── icon-96.png
     │   └── icon-128.png
     ├── pages/
     │   └── popup/
     │       ├── index.html
-    │       └── index.js
+    │       └── style.css
+    │       └── script.js
     └── manifest.json
 ```
 
